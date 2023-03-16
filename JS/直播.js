@@ -2,6 +2,7 @@
 {"name": "雷蒙",     "url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/tv.txt"},
 {"name": "饭太硬",   "url": "http://ftyyy.tk/live.txt"},
 {"name": "俊于",     "url": "http://home.jundie.top:81/Cat/tv/live.txt"},
+{"name": "肥猫",     "url": "http://我不是.肥猫.love:63/TV/tvzb.txt"},
 {"name": "甜蜜",     "url": "http://zdir.kebedd69.repl.co/public/live.txt"},
 {"name": "巧计",     "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt"},
 {"name": "星辰",     "url": "http://tvmvip.com/xclive.txt"},
