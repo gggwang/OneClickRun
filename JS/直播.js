@@ -8,5 +8,6 @@
 {"name":"APTV",      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u"},
 {"name":"YanG",      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
 {"name":"蜂蜜",       "url": "http://home.jundie.top:81/Cat/tv/live.txt"},
+{"name":"goolguy",   "url": "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio"},
 {"name":"饭太硬",     "url": "http://ftyyy.tk/live.txt"}
 ]
