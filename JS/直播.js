@@ -6,7 +6,11 @@
 {"name":"重庆有线",   "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u"},
 {"name":"百事通",     "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u"},
 {"name":"APTV",      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u"},
+{"name":"ChinaTV",   "url": "https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"},
 {"name":"YanG",      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
+{"name":"蜂蜜",       "url": "http://home.jundie.top:81/Cat/tv/live.txt"},
+{"name":"ZHGmyiptv",  "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/myiptv.m3u"},
+{"name":"ZHGPlaylist","url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/playlist.m3u"},
 {"name":"蜂蜜",       "url": "http://home.jundie.top:81/Cat/tv/live.txt"},
 {"name":"电台",       "url": "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio"},
 {"name":"饭太硬",     "url": "http://ftyyy.tk/live.txt"}
