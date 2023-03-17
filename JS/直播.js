@@ -11,7 +11,6 @@
 {"name":"蜂蜜",       "url": "http://home.jundie.top:81/Cat/tv/live.txt"},
 {"name":"ZHGmyiptv",  "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/myiptv.m3u"},
 {"name":"ZHGPlaylist","url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/playlist.m3u"},
-{"name":"蜂蜜",       "url": "http://home.jundie.top:81/Cat/tv/live.txt"},
 {"name":"电台",       "url": "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio"},
 {"name":"饭太硬",     "url": "http://ftyyy.tk/live.txt"}
 ]
