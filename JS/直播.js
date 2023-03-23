@@ -4,6 +4,7 @@
 {"name":"4K8K","url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u"},
 {"name":"重庆有线","url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u"},
 {"name":"YSLive","url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
+{"name":"肥羊精选","url": "https://telegram-feiyangdigital.v1.mk"},
 {"name":"APTV","url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u"},
 {"name":"爱尚","url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u"},
 {"name":"百事通","url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u"},
