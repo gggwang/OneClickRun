@@ -2,6 +2,8 @@
 {"name":"雷蒙","url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/tv.txt"},
 {"name":"全球","url": "https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
 {"name":"4K8K","url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u"},
+{"name":"蜀小果","url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/sxg.m3u"},
+{"name":"itouch","url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/itouch.m3u"},
 {"name":"重庆有线","url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u"},
 {"name":"YSLive","url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
 {"name":"肥羊精选","url": "https://telegram-feiyangdigital.v1.mk"},
