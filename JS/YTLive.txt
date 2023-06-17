@@ -1,8 +1,7 @@
 新聞,#genre#
 中天電視,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
-中天亞洲台,https://www.youtube.com/watch?v=oPx1u9WQrWg
-鳳凰衛視,https://www.youtube.com/watch?v=dmDg7NfUoSw
+中天亞洲台,https://www.youtube.com/watch?v=PYtGQvNmadg
 鳳凰資訊,https://www.youtube.com/watch?v=sUISafvOieY
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 三立新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
