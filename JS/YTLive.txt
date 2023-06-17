@@ -8,7 +8,7 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
 三立LIVE,https://www.youtube.com/watch?v=FoBfXvlOR6I&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
 東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco
-東森新聞 CH51,https://www.youtube.com/watch?v=khuZW5GdBXo
+東森新聞 CH51,https://www.youtube.com/watch?v=khuZW5GdBXo&ab_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51
 東森財經,https://www.youtube.com/watch?v=LbS-xQ67fos
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
