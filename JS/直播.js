@@ -9,7 +9,6 @@
 {"name":"YSLive","url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
 {"name":"FMLive","url": "https://xhdwc.tk/tvlive.txt"},
 {"name":"YY轮播","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yylunbo.m3u"},
-{"name":"肥羊精选","url": "https://telegram-feiyangdigital.v1.mk"},
 {"name":"APTV","url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u"},
 {"name":"itouch","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u"},
 {"name":"ChinaTV","url": "https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"},
