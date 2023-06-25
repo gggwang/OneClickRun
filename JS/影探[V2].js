@@ -1,8 +1,8 @@
 var rule = {
 	title: '影探[V2]', // csp_AppYsV2
-	//host: 'http://get.lfytyl.com',
-  host: 'https://site.ip138.com/45.85.76.17',
-	hostJs:'let html=request(HOST,{headers:{"User-Agent":PC_UA}});for(var i=2;i<5;i++){let src=jsp.pdfh(html,"#list&&li:eq("+i+")&&a&&Text");if(src === "www.lfytyl.com"){continue;}else if(src === "lfytyl.com"){continue;}else{HOST="http://"+src;break;}}',
+	//host: 'http://big.lfytyl.com',
+	host: 'http://app.lyyytv.cn/yt/yt.json',
+	hostJs:'let html=request(HOST,{headers:{"User-Agent":PC_UA}});let obj=JSON.parse(html);HOST=obj.sites[0].ext;',
 	homeUrl:'/api.php/app/index_video',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=18&pg=fypage',
 	filter_url:'&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&year={{fl.year}}',
@@ -25,7 +25,7 @@ var rule = {
 	class_name:'新电影4K&新剧4K&好莱坞精选4K&电影&连续剧&动漫&综艺', // 分类筛选 /api.php/app/nav
 	class_url:'20&21&47&1&2&4&3',
 	play_parse:true,
-	lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("http://1.117.111.78:93/home/api?type=ys&uid=146848&key=ysc6&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+	lazy:'js:if(/m3u8|mp4|mkv/.test(input)){input={jx:0,url:input.replace(/"+"/g, "%20"),parse:0,header:JSON.stringify({"user-agent":"Lavf/58.12.100"})}}else{let purl=request("http://bingfa.behds.cn/indexappzhuanyong.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
 	limit:6,
 	推荐:'json:list[0].vlist;*;*;*;*',
 	一级:'json:list;vod_name;vod_pic;vod_remarks||vod_score;vod_id',
