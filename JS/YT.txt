@@ -4,3 +4,8 @@
 #YOUTUBE直播【翻墙观看】(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
 https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/YTTV.txt
 
+#BEST直播源(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
+https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/BEST直播源.txt
+
+#重庆有线(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
+https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/重庆有线.txt
