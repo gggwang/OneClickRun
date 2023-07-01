@@ -1,5 +1,5 @@
 #IPTV
-1
+0
 
 #BEST直播源(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
 https://ghproxy.com/https://raw.githubusercontent.com/lem85930/iptv/main/BEST直播源.txt
