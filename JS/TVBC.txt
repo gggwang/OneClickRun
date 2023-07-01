@@ -1,62 +1,24 @@
-#BEST直播源(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/BEST直播源.txt
-
-#重庆有线(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/重庆有线.txt
-
-#四川蜀小果(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/四川蜀小果代理.txt
-
-#爱尚(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/爱尚代理直播源.txt
-
-#江苏易视腾(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/江苏易视腾.txt
-
-#广东谷豆(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/广东谷豆.txt
-
-#广东电信组播IP版(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/广东电信组播IP版.txt
-
-#港台2023(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/港台2023.txt
-
-#高清普通直播源20230627.txt(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/高清普通直播源20230627.txt
-
-#港澳台直播源20230605(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/港澳台直播源20230605.txt
-
-#四川成都电信组播202307(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/四川成都电信组播202307.txt
-
-#爱系列(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/111爱系列.txt
-
-#韩国高清(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/韩国高清.txt
-
-#电台直播源(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/电台直播源.txt
-
-#历年春晚(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/历年春晚.txt
-
-#湖南电信组播(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/湖南电信组播.txt
-
-#山东电信组播IP版(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/山东电信组播IP版.txt
-
-#广西联通组播(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/广西联通组播.txt
-
-#河南郑州联通组播(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/河南郑州联通组播.txt
-
-#IPTV4直播源(电信版)(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/IPTV4直播源(电信版).txt
-
-#高清地方RTMP电视源(https://agit.ai/n3rd/N3RD/raw/branch/master/W/IMG.jpg)
-https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/高清地方RTMP电视源.txt
+[
+{"name":"BEST直播源","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/BEST直播源.txt"},
+{"name":"重庆有线","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/重庆有线.txt"},
+{"name":"四川蜀小果","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/四川蜀小果代理.txt"},
+{"name":"爱尚","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u"},
+{"name":"江苏易视腾","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/江苏易视腾.txt"},
+{"name":"广东谷豆","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/广东谷豆.txt"},
+{"name":"广东电信组播IP版","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/广东电信组播IP版.txt"},
+{"name":"港台2023","url": "https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/港台2023.txt"},
+{"name":"高清普通直播源20230627","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/高清普通直播源20230627.txt"},
+{"name":"港澳台直播源20230605","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/港澳台直播源20230605.txt"},
+{"name":"四川成都电信组播202307","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/四川成都电信组播202307.txt"},
+{"name":"爱系列","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/111爱系列.txt"},
+{"name":"韩国高清","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/韩国高清.txt"},
+{"name":"电台直播源","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/电台直播源.txt
+"},
+{"name":"湖南电信组播","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/湖南电信组播.txt"},
+{"name":"历年春晚","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/历年春晚.txt"},
+{"name":"山东电信组播IP版","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/山东电信组播IP版.txt"},
+{"name":"广西联通组播","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/广西联通组播.txt"},
+{"name":"河南郑州联通组播","url": "https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/河南郑州联通组播.txt"},
+{"name":"IPTV4直播源(电信版)","url": "https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/IPTV4直播源(电信版).txt"},
+{"name":"高清地方RTMP电视源","url": "https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/wcb1969/iptv/main/高清地方RTMP电视源.txt"}
+]
