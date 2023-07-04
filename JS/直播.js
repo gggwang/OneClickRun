@@ -21,5 +21,5 @@
 {"name":"ZHGIPTV","url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/myiptv.m3u"},
 {"name":"ZHGPlaylist","url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/playlist.m3u"},
 {"name":"电台","url": "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio"},
-{"name":"FTYLive","url": "http://hz752.love:63/txt/tvbs.txt"}
+{"name":"FTYLive","url": "http://hz752.love:63/txt/ysbox.txt"}
 ]
