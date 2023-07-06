@@ -1,4 +1,5 @@
 [
+{"name":"雷蒙影视概念宣传片","url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/CRIMETVPV.txt"},
 {"name":"雷蒙","url": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/tv.txt"},
 {"name":"全球","url": "https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
 {"name":"4K8K","url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"},
