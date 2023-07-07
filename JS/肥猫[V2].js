@@ -1,7 +1,7 @@
 var rule = {
 	title: '肥猫[V2]', 
 	host: 'http://i.xn--z7x900a.love:63',
-	homeUrl:'/api.php/provide/vod?ac=detail&t=21&pg=1&f=',
+	homeUrl:'/api.php/provide/vod?ac=detail&pg=1&f=',
 	url: '/api.php/provide/vod/?t=fyclass&ac=detail&pg=fypage',
 	detailUrl:'/api.php/provide/vod?ac=detail&ids=fyid',
 	searchUrl: 'api.php/provide/vod?ac=detail&wd=**',
